@@ -52,12 +52,6 @@ Execute:
 bash sistema_funcionarios.sh
 ```
 
-Tambem pode usar:
-
-```bash
-bash rodar_linux.sh
-```
-
 O sistema abre um menu com as opcoes do trabalho.
 
 ## Onde ficam os arquivos
