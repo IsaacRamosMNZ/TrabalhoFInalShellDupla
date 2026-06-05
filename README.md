@@ -35,7 +35,6 @@ Empresa/
 +-- relatorios/
 +-- backup/
 +-- sistema_funcionarios.sh
-+-- rodar_linux.sh
 ```
 
 ## Como rodar no Linux
